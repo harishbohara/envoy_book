@@ -1,5 +1,5 @@
 ### How a external control plane like istio works
-Isto uses xDS APIs and calls Envoy to setup listeners. We have created a serup where Envoy will listen to this and a sample service will register a service
+Istio uses xDS APIs and calls Envoy to setup listeners. We have created a serup where Envoy will listen to this and a sample service will register a service
 
 #### How to run
 ```
